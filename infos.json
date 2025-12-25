@@ -1047,5 +1047,22 @@
           "key_ims_force_enable_setting": true,
           "key_ims_install_apn": true
         }
+    },
+    {
+        "match_property": "vendor_fp",
+        "match_value": "alps/vnd_oppo6771.*",
+        "device_name": "Oppo Reno 2F",
+
+        "maintainer": {
+            "name": "Omar",
+            "telegram": "https://t.me/helicopterr_helicopterr"
+        },
+        "community": {
+            "telegram": "https://t.me/CPH1989_chat"
+        },
+        "preferences": {
+            "key_misc_multi_camera": "true",
+            "key_misc_backlight_scale": "true"
+        }
     }
 ]
