@@ -1049,8 +1049,8 @@
         }
     },
     {
-        "match_property": "vendor_fp",
-        "match_value": "alps/vnd_oppo6771.*",
+        "match_property": "ro.product.odm.model",
+        "match_value": "CPH1989",
         "device_name": "Oppo Reno 2F",
 
         "maintainer": {
